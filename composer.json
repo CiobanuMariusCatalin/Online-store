@@ -1,0 +1,8 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "phpmailer/phpmailer": "^6.0",
+        "twbs/bootstrap": "4.0.0-beta.3",
+        "components/jquery": "3.2"
+    }
+}
